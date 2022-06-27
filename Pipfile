@@ -9,7 +9,6 @@ phonenumbers = "*"
 django-heroku = "*"
 gunicorn = "*"
 pypiwin32 = "==223"
-pywin32 = "*"
 
 [dev-packages]
 
