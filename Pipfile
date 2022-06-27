@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 django-rest-framework = "*"
 phonenumbers = "*"
+django-heroku = "*"
+gunicorn = "*"
 
 [dev-packages]
 
