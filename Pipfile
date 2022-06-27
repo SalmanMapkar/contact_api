@@ -8,6 +8,7 @@ django-rest-framework = "*"
 phonenumbers = "*"
 django-heroku = "*"
 gunicorn = "*"
+pywin32 = "*"
 
 [dev-packages]
 
